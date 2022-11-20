@@ -1,0 +1,26 @@
+#descripcion{
+    resize: none;
+}
+
+.centrado{
+    text-align: center;
+    vertical-align: middle;
+}
+
+.tamano{
+    height: 150px;
+    width: 150px;
+}
+
+.tamanoindex{
+    height: 150px;
+    width: 150px;
+}
+
+.inputrut{
+    width: 80%;
+}
+
+.inputv{
+    width: 10%;
+}
