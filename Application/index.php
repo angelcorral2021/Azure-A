@@ -31,7 +31,7 @@
                 </div>
                 <div class="col-md-10  col-lg-10 col-xl-10 text-center">
                     <h2>Bodegas Don Gato</h2>
-                   
+                    <i class="fas fa-cat" style="font-size: 4rem; ;"></i>
                     <form action="" method="POST" class="text-center">
                         <div class="mb-3 pt-3">
                             <input type="text" class="form-control" id="usuario" placeholder="Usuario" name="txtusu">
